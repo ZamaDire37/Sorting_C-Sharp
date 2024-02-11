@@ -1,0 +1,8 @@
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Sorting\bin\Debug\Sorting.exe
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Sorting\bin\Debug\Sorting.pdb
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Sorting\obj\Debug\Sorting.csproj.AssemblyReference.cache
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Sorting\obj\Debug\Sorting.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Sorting\obj\Debug\Sorting.exe
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Sorting\obj\Debug\Sorting.pdb
